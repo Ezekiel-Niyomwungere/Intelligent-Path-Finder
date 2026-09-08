@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Local app / tools
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+*.log
+
+# Generated maps (recreated by compare.py / demo.py / app.py)
+static/
+demo_route_map.png
+comparison_travel_time.png
+comparison_nodes_expanded.png
+comparison_runtime.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
