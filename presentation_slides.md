@@ -1,11 +1,9 @@
-# Presentation slides — 10 total
+# Presentation slides
 
 **How to use:** Copy each slide into PowerPoint / Google slides (one slide = one section).  
 Speak the details aloud; keep text on screen short.
 
 ---
-
-## Slide 1 — Title
 
 **Intelligent Path Finder for Nairobi Matatu Routes**
 
@@ -16,7 +14,7 @@ Uninformed & Informed Search for Urban Mobility
 
 ---
 
-## Slide 2 — Problem statement
+## Slide 2 - Problem statement
 
 **Problem**
 
@@ -32,7 +30,7 @@ Uninformed & Informed Search for Urban Mobility
 
 ---
 
-## Slide 3 — Objectives
+## Slide 3 - Objectives
 
 **What we set out to do**
 
@@ -44,7 +42,7 @@ Uninformed & Informed Search for Urban Mobility
 
 ---
 
-## Slide 4 — Network model
+## Slide 4 - Network model
 
 **Graph design**
 
@@ -64,7 +62,7 @@ Uninformed & Informed Search for Urban Mobility
 
 ---
 
-## Slide 5 — Algorithms (overview)
+## Slide 5 - Algorithms (overview)
 
 | Algorithm | Type | Optimizes |
 |-----------|------|-----------|
@@ -79,7 +77,7 @@ Uninformed & Informed Search for Urban Mobility
 
 ---
 
-## Slide 6 — How the algorithms work
+## Slide 6 - How the algorithms work
 
 **BFS** — queue (layer by layer) → fewest stage changes  
 
@@ -94,7 +92,7 @@ Uninformed & Informed Search for Urban Mobility
 
 ---
 
-## Slide 7 — Results (example)
+## Slide 7 - Results (example)
 
 **CBD → Ong'ata Rongai**
 
@@ -108,7 +106,7 @@ Same hops, **different times** → A* finds the fastest route in the model.
 
 ---
 
-## Slide 8 — Key findings
+## Slide 8 - Key findings
 
 - **BFS** → best / tied on hops  
 - **A\*** → best / tied on travel time  
@@ -118,7 +116,7 @@ Same hops, **different times** → A* finds the fastest route in the model.
 
 ---
 
-## Slide 9 — Kenya context & limitations
+## Slide 9 - Kenya context & limitations
 
 **Real traffic vs our model**
 
@@ -137,7 +135,7 @@ Same hops, **different times** → A* finds the fastest route in the model.
 
 ---
 
-## Slide 10 — Conclusion & future work
+## Slide 10 - Conclusion & future work
 
 **Conclusion**
 
