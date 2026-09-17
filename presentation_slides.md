@@ -1,10 +1,5 @@
 # Presentation slides
 
-**How to use:** Copy each slide into PowerPoint / Google slides (one slide = one section).  
-Speak the details aloud; keep text on screen short.
-
----
-
 **Intelligent Path Finder for Nairobi Matatu Routes**
 
 Uninformed & Informed Search for Urban Mobility
